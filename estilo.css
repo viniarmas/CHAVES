@@ -1,0 +1,41 @@
+body{
+	font-family: tahoma;
+	margin-top: 30px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+}
+h1{
+	font-size: 50px;
+	color: white;
+	background-color:green;
+	font-style: bold;
+}
+h2{
+	font-size: 50px;
+	color: branco;
+	background-color: green;
+	font-style: italic;
+}
+p{
+	text-align: justify;
+	font-size:20px;
+}
+.turma{
+	text-align: right;
+	font-size:15px;
+	font-style:italic;
+	text-decoration:underline;
+}
+.madruga{
+	color:blue;
+}
+.chiq{
+	color:green;
+}
+.kiko{
+	color:red;
+}
+.elenco{
+	 text-align: center;
+}
